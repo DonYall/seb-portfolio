@@ -8,7 +8,7 @@ function App() {
       <div>
         <div id="stars"></div>
         <div id="stars2"></div>
-        <section className="h-screen w-fit flex flex-col justify-center text-white px-2 lg:px-64">
+        <section className="h-screen w-fit flex flex-col justify-center text-white px-2 lg:px-52">
           <header className="absolute top-0 left-0 w-full flex items-center py-12 px-24 justify-end">
             <nav className="flex space-x-16 text-2xl">
               <a href="#about" className="group">
